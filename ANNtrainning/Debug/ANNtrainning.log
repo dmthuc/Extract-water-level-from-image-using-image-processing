@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\anntrainning\source.cpp(195): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  ANNtrainning.vcxproj -> C:\Users\dmthuc\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ANNtrainning.exe

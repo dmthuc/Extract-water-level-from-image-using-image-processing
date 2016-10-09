@@ -1,0 +1,17 @@
+﻿  squares_finder.cpp
+  rotated_square_getter.cpp
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\rotated_square_getter.cpp(150): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\rotated_square_getter.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\rotated_square_getter.cpp(199): warning C4018: '<' : signed/unsigned mismatch
+  main.cpp
+  image_cropper.cpp
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\image_cropper.cpp(14): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\image_cropper.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+  contours_matcher.cpp
+  contours_finder.cpp
+  ann.cpp
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\ann.cpp(66): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\ann.cpp(67): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\annprepreprocess\ann.cpp(81): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ANNprepreprocess.vcxproj -> c:\users\dmthuc\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ANNprepreprocess.exe

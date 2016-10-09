@@ -1,0 +1,4 @@
+﻿  getopt.c
+c:\users\dmthuc\documents\visual studio 2015\projects\consoleapplication1\294_14pm\getopt.c(143): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(462) : see declaration of 'getenv'
+  294_14pm.vcxproj -> c:\users\dmthuc\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\294_14pm.exe

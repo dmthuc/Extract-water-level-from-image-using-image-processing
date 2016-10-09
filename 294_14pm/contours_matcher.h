@@ -1,0 +1,4 @@
+#ifndef CONTOUR_MATCHER_H
+#define CONTOUR_MATCHER_H
+
+#endif
